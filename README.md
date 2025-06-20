@@ -1,12 +1,3 @@
-# Welcome to N0mad300's GitHub Profile! 👋
-
-Hey there! I'm N0mad300, a passionate programmer from France. Welcome to my GitHub profile !
-
-## About Me
-
-- I'm currently a French high school student in 11th grade.
-- So far, I've taught myself everything about programming.
-
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0mad300&show_icons=true&count_private=true&theme=onedark&hide_border=true&rank_icon=github)
